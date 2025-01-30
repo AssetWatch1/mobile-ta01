@@ -1,6 +1,6 @@
 # Mobile Technical Assesment
 
-![Logo](https://raw.githubusercontent.com/https://github.com/AssetWatch1/mobile-ta01/main/logo.svg)
+![Logo](https://raw.githubusercontent.com/https://github.com/AssetWatch1/mobile-ta01/main/assetwatch_logo.svg)
 
 ## Getting Started
 
