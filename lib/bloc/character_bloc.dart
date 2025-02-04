@@ -13,5 +13,6 @@ class CharacterBloc extends Bloc<CharacterEvent, CharacterState> {
   //* [] Retrieve the data from https://rickandmortyapi.com/api/character
   //* [] Make sure to show a loading spinner while waiting for the data to load
   //* [] Show an error message if the data fails to load
+  //* You can reference the documentation here: https://rickandmortyapi.com/documentation/#character-schema
   final http.Client _httpClient;
 }
